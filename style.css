@@ -1,0 +1,222 @@
+body {
+  margin: 0px;
+  font-family: Circular, spotify-circular, Helvetica, Arial, sans-serif;
+  color: white;
+}
+
+nav {
+  height: 80px;
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav-item {
+  padding: 28px 17px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #1ed760;
+}
+
+main {
+  height: 977px;
+  background-color: rgb(41, 65, 171);
+  background-image: url(https://www-growth.scdn.co/static/home/bursts.svg);
+  background-size: 175%;
+  background-position: 46% 4%;
+  font-family: spotify-circular, Helvetica, Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.divset-1 {
+  font-size: 156px;
+  color: #1ed760;
+  padding-bottom: 40px;
+  font-weight: 900;
+  position: relative;
+  left: 225px;
+}
+
+.divset-1-1 {
+  position: relative;
+  left: -2.5em;
+}
+
+.divset-2 {
+  color: #1ed760;
+  font-size: 18px;
+  padding-bottom: 40px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.divse-3_area {
+  text-align: center;
+}
+
+.divset-3 {
+  color: #2941ab;
+  background-color: #1ed760;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+  padding: 14px 32px;
+  border-radius: 500px;
+  border-color: #1ed760;
+}
+
+.divset-3:hover {
+  transform: scale(1.035);
+  background-color: #43e57d;
+}
+
+footer {
+  background-color: black;
+  padding: 80px 0px 50px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.container {
+  width: 1170px;
+  height: 400.67px;
+  margin: 0px 82.6667px;
+}
+
+.footer-menu {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.first-menu {
+  width: 60%;
+  display: flex;
+}
+
+.second-menu {
+  width: 40%;
+  display: flex;
+}
+
+.img-style {
+  padding: 0px 15px;
+  width: 132px;
+  height: 41.9px;
+}
+
+.footer-a {
+  padding: 3px 0px 15px;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.footer-span {
+  color: #919496;
+  color: #919496;
+  font-size: 12px;
+  font-weight: 750;
+  text-transform: uppercase;
+  margin: 20px 0px;
+}
+
+.company-menu {
+  display: flex;
+  flex-direction: column;
+  padding: 0px 15px;
+  width: 346px;
+}
+
+.communities-menu {
+  display: flex;
+  flex-direction: column;
+  padding: 0px 15px;
+  width: 346px;
+}
+
+.usefullinks-menu {
+  display: flex;
+  flex-direction: column;
+  padding: 0px 15px;
+  width: 346px;
+}
+
+.icon {
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  background-color: #222326;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 15px 0px 0px;
+  position: relative;
+  left: 180px;
+}
+
+.icon:hover {
+  color: #1ed760;
+}
+
+.icon-size {
+  font-size: 24px;
+}
+
+.footer-country {
+  text-align: right;
+  padding-right: 73px;
+  margin: 0px 15px;
+  padding-top: 100px;
+}
+
+.country-iconsize {
+  margin: 0px 8px 0px 0px;
+  font-size: 11px;
+  color: #949196;
+}
+
+.USA {
+  color: #949196;
+  font-size: 11px;
+}
+
+.USA:hover {
+  color: #1ed760;
+}
+
+.footer-lowest {
+  display: flex;
+}
+
+.footer-lowest-1 {
+  display: flex;
+  padding-left: 20px;
+}
+
+.footer-lowest-a {
+  font-size: 12px;
+  padding: 12px 0px;
+  color: #949196;
+  margin-right: 20px;
+}
+
+.footer-lowest-span {
+  font-size: 12px;
+  padding: 12px 0px;
+  color: #949196;
+  margin-right: 20px;
+  padding-left: 390px;
+}
